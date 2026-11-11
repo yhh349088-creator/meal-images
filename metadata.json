@@ -1,0 +1,6 @@
+{
+  "name": "YAZOO DST AI",
+  "description": "Convert visual artwork and images into industrial Tajima DST embroidery files with precision stitch calibration and density mapping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
